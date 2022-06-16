@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'LexendDeca-Black';
+    src: url(../fonts/LexendDeca-Black.ttf);
+    font-weight: 900;
+}
+@font-face {
+    font-family: 'LexendDeca-Bold';
+    src: url(../fonts/LexendDeca-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'LexendDeca-ExtraBold';
+    src: url(../fonts/LexendDeca-ExtraBold.ttf);
+    font-weight: 800;
+}
+@font-face {
+    font-family: 'LexendDeca-ExtraLight';
+    src: url(../fonts/LexendDeca-ExtraLight.ttf);
+    font-weight: 200;
+}
+@font-face {
+    font-family: 'LexendDeca-Light';
+    src: url(../fonts/LexendDeca-Light.ttf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'LexendDeca-Medium';
+    src: url(../fonts/LexendDeca-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'LexendDeca-Regular';
+    src: url(../fonts/LexendDeca-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'LexendDeca-SemiBold';
+    src: url(../fonts/LexendDeca-SemiBold.ttf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'LexendDeca-Thin';
+    src: url(../fonts/LexendDeca-Thin.ttf);
+    font-weight: 100;
+}
+@font-face {
+    font-family: 'Lobster-Regular';
+    src: url(../fonts/Lobster-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'SigmarOne-Regular';
+    src: url(../fonts/SigmarOne-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url(../fonts/Roboto-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Roboto-Medium';
+    src: url(../fonts/Roboto-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url(../fonts/Roboto-Regular.ttf);
+    font-weight: 400;
+}

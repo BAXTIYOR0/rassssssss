@@ -1,0 +1,25 @@
+
+.elastic{
+     display: flex;
+     flex-direction: column;
+     z-index: 9998898;
+  }
+  .elastic li {
+     transition: all ease 500ms;
+  }
+  .elasticBtn{
+     display: none;
+  }
+  .elasticBtn.hide{
+     display: block !important;
+  }
+  .searchIndex{
+     display: flex;
+     align-items: center;
+  }
+  
+  .searchIndex.none{
+     display: flex;
+     align-items: center;
+  }
+  
